@@ -1,0 +1,7 @@
+C:\C# practice\EFcodefirstdb\solid_principle_S\bin\Debug\solid_principle_S.exe.config
+C:\C# practice\EFcodefirstdb\solid_principle_S\bin\Debug\solid_principle_S.exe
+C:\C# practice\EFcodefirstdb\solid_principle_S\bin\Debug\solid_principle_S.pdb
+C:\C# practice\EFcodefirstdb\solid_principle_S\obj\Debug\solid_principle_S.csproj.AssemblyReference.cache
+C:\C# practice\EFcodefirstdb\solid_principle_S\obj\Debug\solid_principle_S.csproj.CoreCompileInputs.cache
+C:\C# practice\EFcodefirstdb\solid_principle_S\obj\Debug\solid_principle_S.exe
+C:\C# practice\EFcodefirstdb\solid_principle_S\obj\Debug\solid_principle_S.pdb
